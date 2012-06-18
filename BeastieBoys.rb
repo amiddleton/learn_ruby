@@ -20,4 +20,13 @@ class BeastieBoys
       '2007' => 'The Mix-up',
       '2011' => 'Hot Sauce Committee Part Two'}
   end
+  def years_album
+    years_album = %w(1984, 1989, 1992, 1994, 1998, 2004, 2007, 2011, )
+  end
+  def current_time
+    current_time = %w(1984...time.now.year)
+  end
+  def missing_years
+    missing_years
+  end
 end
