@@ -21,4 +21,3 @@ class ConverterTest<Test::Unit::TestCase
    end
  end
 
-
